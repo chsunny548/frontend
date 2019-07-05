@@ -9,7 +9,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-        </p>
+what the fuck asshole        
+<p> FUCK OFF ASSHOLE </p>
+
+</p>
         <a
           className="App-link"
           href="https://reactjs.org"
