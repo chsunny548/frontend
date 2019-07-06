@@ -6,4 +6,4 @@ before_install:
   - docker build -t testme1 -f Dockerfile.dev .
 
 script:
-  - docker container run testme1 npm run test
+  - docker container run testme1 npm run test -- --coverage
